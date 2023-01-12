@@ -6,8 +6,12 @@ Junior computer science and economics student at Johns Hopkins University
 
 I have been learning to program for the past 4 years. Initially, I had a passion for medicine and was planning on becoming a doctor, but that started to change once I successfully ran my first javascript program in high-school. It was a basketball-related quiz and I was immediately fulfilled with the problem solving aspect of programming and enjoyed creating something from scratch. Going into college, I still planned on going into medicine while simultaneously working to become an engineer, however after taking the introductory JAVA course, I decided to go into computer science as my primary field of study. Additionally, taking the elements of macroeconomics course in the fall of 2020 sparked my intrigue with economics and finance, so I decided to double major with economics. Throughout my college career and the sports analytics research that I began conducting at my university, I was able to learn various programming languages, like JAVA, C, C++, assembly and javascript, while learning python and SQL primarily on my own. The data structures, algorithms, probability and statistics, discrete mathematics, econometrics, leadership theory and oral presentations courses that I have taken at Johns Hopkins have not only taught me various important skills, but have shown me what it takes to work in teams, manage projects and communicate effectively. As I am nearing graduation, I look forward to gaining real-world experience and having an impact in a technology-driven world!
 
-*   🌍  I'm based in Maryland
-*   ✉️  You can contact me at [hamimiabdelrahman@gmail.com](mailto:hamimiabdelrahman@gmail.com)### Skills 
+* 🌍  I'm based in Maryland
+* ✉️  You can contact me at [hamimiabdelrahman@gmail.com](mailto:hamimiabdelrahman@gmail.com)
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -22,15 +26,16 @@ I have been learning to program for the past 4 years. Initially, I had a passion
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/AbAbdullah2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/abdelrahman-hamimi-2064ab202/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/AbAbdullah2"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=AbAbdullah2&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/AbAbdullah2"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AbAbdullah2&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/AbAbdullah2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdelrahman-hamimi-2064ab202/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/AbAbdullah2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbAbdullah2&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/AbAbdullah2"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AbAbdullah2&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
