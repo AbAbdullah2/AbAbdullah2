@@ -1,12 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdelrahman Hamimi
 ==========================================================================================================================================
 
-Junior computer science and economics student at Johns Hopkins University
--------------------------------------------------------------------------
+BS/MS Computer science and BA economics student at Johns Hopkins University
+----------------------------------------------------------------------------
 
-I have been learning to program for the past 4 years. Initially, I had a passion for medicine and was planning on becoming a doctor, but that started to change once I successfully ran my first javascript program in high-school. It was a basketball-related quiz and I was immediately fulfilled with the problem solving aspect of programming and enjoyed creating something from scratch. Going into college, I still planned on going into medicine while simultaneously working to become an engineer, however after taking the introductory JAVA course, I decided to go into computer science as my primary field of study. Additionally, taking the elements of macroeconomics course in the fall of 2020 sparked my intrigue with economics and finance, so I decided to double major with economics. Throughout my college career and the sports analytics research that I began conducting at my university, I was able to learn various programming languages, like JAVA, C, C++, assembly and javascript, while learning python and SQL primarily on my own. The data structures, algorithms, probability and statistics, discrete mathematics, econometrics, leadership theory and oral presentations courses that I have taken at Johns Hopkins have not only taught me various important skills, but have shown me what it takes to work in teams, manage projects and communicate effectively. As I am nearing graduation, I look forward to gaining real-world experience and having an impact in a technology-driven world!
-
-* 🌍  I'm based in Maryland
+* 🌍  I'm based in Maryland and Chicago
 
 ### Skills
 
