@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 BS/MS Computer science and BA economics student at Johns Hopkins University
 ----------------------------------------------------------------------------
 
-* 🌍  I'm based in Maryland and Chicago
+🌍  I'm based in Maryland and Chicago
 
 ### Skills
 
