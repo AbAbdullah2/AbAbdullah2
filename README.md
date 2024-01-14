@@ -6,7 +6,7 @@ BS/MS Computer Science and BA Economics Student at Johns Hopkins University
 * 🌍  I'm based in Baltimore & Chicago
 * 🖥️  See my portfolio at [abhamimi.netlify.app](http://abhamimi.netlify.app)
 * 🚀  I'm currently working on [HopOut](http://hopout.netlify.app/)
-* 🧠  I'm learning Flask
+* 🧠  I'm learning Software System Design, Data Science, and Natural Language Processing
 
 ### Skills
 
