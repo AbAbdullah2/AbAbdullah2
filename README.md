@@ -24,5 +24,5 @@ BS/MS Computer Science and BA Economics Student at Johns Hopkins University
 
 <p>Since most of my work is in private repositories, the following stats include contributions in both public and private repos:</p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbAbdullah2&theme=highcontrast&hide_border=true&border_radius=4.8&card_width=500 alt="GitHub Streak" "/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbAbdullah2&theme=highcontrast&hide_border=true&border_radius=4.8&card_width=500" alt="GitHub Streak"/></a>
 
