@@ -5,7 +5,7 @@ BS/MS Computer Science and BA Economics Student at Johns Hopkins University
 
 * 🌍  I'm based in Baltimore & Chicago
 * 🖥️  See my portfolio at [abhamimi.netlify.app](http://abhamimi.netlify.app)
-* 🚀  I'm currently working on [HopOut](http://hopout.netlify.app/)
+* 🚀  I'm currently working on Scheduling Wizard (https://schedulingwiz.com/)
 * 🧠  I'm learning Natural Language Processing: Self-Supervised Learning, Software System Design, Data Science, and Information Retrieval
 
 ### Skills
