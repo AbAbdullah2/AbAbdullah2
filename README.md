@@ -3,10 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 BS/MS Computer Science and BA Economics Student at Johns Hopkins University
 
-* 🌍  I'm based in Baltimore & Chicago
+* 🌍  I'm based in Washington, DC.
 * 🖥️  See my portfolio at [abhamimi.netlify.app](http://abhamimi.netlify.app)
-* 🚀  I'm currently working on Scheduling Wizard (https://schedulingwiz.com/)
-* 🧠  I'm learning Natural Language Processing: Self-Supervised Learning, Software System Design, Data Science, and Information Retrieval
+* 🚀  I'm currently the Cofounder and CTO of Scheduling Wizard (https://schedulingwiz.com/)
 
 ### Skills
 
