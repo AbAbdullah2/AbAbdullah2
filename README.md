@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdelrahman Hamimi
 ==========================================================================================================================================
 
-BS/MS Computer Science and BA Economics Student at Johns Hopkins University
+BS/MS Computer Science and BA Economics Graduate from Johns Hopkins University
 
 * 🌍  I'm based in Washington, DC.
 * 🖥️  See my portfolio at [abhamimi.netlify.app](http://abhamimi.netlify.app)
-* 🚀  I'm currently the Cofounder and CTO of Scheduling Wizard (https://schedulingwiz.com/)
+* 🚀  I am the Cofounder and CTO of Scheduling Wizard (https://schedulingwiz.com/)
 
 ### Skills
 
